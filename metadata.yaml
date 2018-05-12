@@ -1,0 +1,41 @@
+_repo: Ylpeys-ja-ennakkoluulo_45186
+_version: 0.1.0
+alternative_title: Pride and prejudice. Finnish
+contributor:
+  translator:
+    agent_name: Joutsen, O. A.
+    birthdate: 1878
+    deathdate: 1936
+    gutenberg_agent_id: '33476'
+    url: http://www.gutenberg.org/2009/agents/33476
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Austen, Jane
+    birthdate: 1775
+    deathdate: 1817
+    gutenberg_agent_id: '68'
+    url: http://www.gutenberg.org/2009/agents/68
+    wikipedia: http://en.wikipedia.org/wiki/Jane_Austen
+description: ''
+gutenberg_issued: '2014-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45186'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Courtship -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Sisters -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Love stories'
+title: Ylpeys ja ennakkoluulo
+url: http://www.gutenberg.org/ebooks/45186
